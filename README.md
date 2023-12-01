@@ -18,10 +18,12 @@ $ npm start
 ```
 
 ## To use it in osu!:
+```bash
 [imagemap]
 {Your image link}
 {Coordinates given by Collab!} https://osu.ppy.sh/users/userid {Desired username}
 [/imagemap]
+```
 
 ## Authors
 
