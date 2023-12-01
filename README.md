@@ -17,6 +17,12 @@ $ npm install
 $ npm start
 ```
 
+## To use it in osu!:
+[imagemap]
+{Your image link}
+{Coordinates given by Collab!} https://osu.ppy.sh/users/userid {Desired username}
+[/imagemap]
+
 ## Authors
 
 * [cedru](https://github.com/cedru)
