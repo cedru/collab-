@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Image Picker</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+
+  <body>
+
+    <div class="customTitlebar">
+      <div id="titleContent">
+        <img id="titleIcon" src="img/collab!.png" alt="Icon" />
+        <div id="titleText">Collab!</div>
+      </div>
+      <div id="closeButton">X</div>
+    </div>
+
+    <canvas id="canvas" hidden></canvas>
+
+    <div class="button-container">
+      <button id="chooseImageBtn">Choose Image</button>
+      <button id="copyCoordBtn" hidden>Copy coordinates</button>
+    </div>
+  
+    <script src="../renderer.js"></script>
+
+  </body>
+
+  </html>
