@@ -11,7 +11,7 @@ Simple collab maker for osu! profiles, made using [Electron](https://www.electro
 To build it yourself, you need [Node](https://nodejs.org/en) and NPM. If you have those just run the commands below.
 
 ```bash
-$ git clone https://github.com/cedru/collab.git
+$ git clone https://github.com/cedru/collab-.git
 $ cd collab
 $ npm install
 $ npm start
