@@ -12,7 +12,7 @@ To build it yourself, you need [Node](https://nodejs.org/en) and NPM. If you hav
 
 ```bash
 $ git clone https://github.com/cedru/collab-.git
-$ cd collab
+$ cd collab-
 $ npm install
 $ npm start
 ```
